@@ -1,7 +1,6 @@
 ### Hi there, I'm Flavio de Souza - Welcome to my profile 👋
 
 - 🌱 I’m currently learning machine learning with python
-- 👯 I’m co-founder of Aphelium project 🛰
 - 😄 Pronouns: He/Him
 
 <div align="center">
